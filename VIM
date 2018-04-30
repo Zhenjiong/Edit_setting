@@ -48,6 +48,7 @@ color desert
 set nu
 syntax on
 set backspace=indent,eol,start  "backspace will be same as the Windows
+set showcmd
 
 " Tab and Indent
 set tabstop=4
